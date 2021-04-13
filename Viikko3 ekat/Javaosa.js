@@ -42,7 +42,7 @@ var tulos = text += arvov2[e];
 
 }
 var sisältääkö = tulos.includes("ö");
-
+var sisältääköv2 = tulos.includes("Ö");
 
 if(sisältääkö == true){
   document.getElementById("vastv3").innerHTML = "Kyllä sisältää"
@@ -50,6 +50,11 @@ if(sisältääkö == true){
 
 }else  {
   document.getElementById("vastv3").innerHTML = "Ei sisällä"
+
+}
+if(sisältääköv2 == true){
+  document.getElementById("vastv3").innerHTML = "Kyllä sisältää"
+
 
 }
 }
