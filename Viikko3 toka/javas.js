@@ -120,7 +120,7 @@ function buttonv3(){
 }
 
 function buttonv4()
-/* https://www.thatsoftwaredude.com/content/6196/coding-a-card-deck-in-javascript katoin tämmöse mut otin mallia source codest ja tein tä mukaa */
+/* https://www.thatsoftwaredude.com/content/6196/coding-a-card-deck-in-javascript katoin tämmöse mut otin mallia source codest ja tein source code mukaa */
   {
     var pakka = [''];
     var maat = ['&#9828;', '&#9827;', '&#9826;', '&#9825;'];
